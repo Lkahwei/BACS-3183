@@ -1,0 +1,13 @@
+INSERT INTO SERVICECENTRE VALUES ('SC001', 'Triple L Perak SC', '24, Lorong Perindustrian, 12, Taman Perindustrian', '14300', 'Perak', '60123456789');
+INSERT INTO SERVICECENTRE VALUES ('SC002', 'Triple L Perlis SC', '30, Lorong Perlis, 2, Taman Perlis', '24523', 'Perlis', '60100000000');
+INSERT INTO SERVICECENTRE VALUES ('SC003', 'Triple L Penang SC', '10, Lorong Penang, 42, Taman Penang', '21342', 'Penang', '60171232143');
+INSERT INTO SERVICECENTRE VALUES ('SC004', 'Triple L Selangor SC', '39, Lorong Selangor, 9, Taman Selangor', '66456', 'Selangor', '60162134523');
+INSERT INTO SERVICECENTRE VALUES ('SC005', 'Triple L Kuala Lumpur SC', '42, Lorong Kuala Lumpur, 5, Taman Kuala Lumpur', '98396', 'Kuala Lumpur', '60102134593');
+INSERT INTO SERVICECENTRE VALUES ('SC006', 'Triple L Kedah SC', '22, Lorong Kedah Perindustrian, 5, Taman Kedah Perindustrian', '12345', 'Kedah', '60101345345');
+INSERT INTO SERVICECENTRE VALUES ('SC007', 'Triple L Malacca SC', '21, Lorong Pavilion, 23, Taman Pavilion', '56767', 'Malacca', '60122312234');
+INSERT INTO SERVICECENTRE VALUES ('SC008', 'Triple L Negeri Sembilan SC', '63, Lorong Negeri Sembilan, 5, Taman Negeri Sembilan', '21314', 'Negeri Sembilan', '60177645534');
+INSERT INTO SERVICECENTRE VALUES ('SC009', 'Triple L Johor SC', '1, Lorong Jeoparsid, 5, Taman Jeoparsid', '75466', 'Johor', '60142238893');
+INSERT INTO SERVICECENTRE VALUES ('SC010', 'Triple L Terengganu SC', '99, Lorong Bukit Mertajam, 5, Taman Bukit Mertajam', '12123', 'Terrenganu', '60132124693');
+
+SELECT COUNT(*) 
+FROM SERVICECENTRE;
